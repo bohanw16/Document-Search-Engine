@@ -17,7 +17,7 @@ A search engine hosted on web server that allows users to search for local text 
 -   Clone the repo
 ```bash
 git clone https://github.com/bohanw16/DocumentSearchEngine.git
-cd document-search-engine
+cd DocumentSearchEngine
 ```
 -   Compile the software
 ```bash
