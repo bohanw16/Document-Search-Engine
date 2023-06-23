@@ -10,6 +10,7 @@ A search engine hosted on web server that allows users to search for local text 
 
 ### Prerequisites
 -   make
+-   C++
 -   Git
 
 ### Installation
