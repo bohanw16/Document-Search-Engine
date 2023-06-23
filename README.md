@@ -26,16 +26,16 @@ make
 ```
 
 ### Try it out
--   Launch the web server with documents from directory "../projdocs"
+-   Launch the web server with documents from directory $\texttt{../projdocs}$
 ```bash
 ./http333d 5555 ../projdocs unit_test_indices/*
 ```
--   Explore the search engine at port "5555"
+-   Explore the search engine at port:5555
     -   Example when using a local machine:  http://localhost:5555/
     -   Example when using a virtual machine:  http://hostname.domain:5555/
 
 ### Recompile and clean up
--   If you want to recompile or clean up the compiled files, from "/document-search-engine" run
+-   If you want to recompile or clean up the compiled files, from $\texttt{/document-search-engine}$ run
 ```bash
 make
 make clean
