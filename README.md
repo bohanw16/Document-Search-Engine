@@ -26,7 +26,7 @@ make
 ```
 
 ### Try it out
--   Start the web server with documents from directory $\texttt{../projdocs}$
+-   Launch the search engine to the server with documents from directory $\texttt{../projdocs}$
 ```bash
 ./http333d 5555 ../projdocs unit_test_indices/*
 ```
