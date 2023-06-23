@@ -1,6 +1,6 @@
 # Document Search Engine
 
-**A Search Engine For Local And Online Documents**
+**A Multi-Threaded Online Search Engine With A Query Processer For Local And Online Documents**
 
 ## Introduction
 
